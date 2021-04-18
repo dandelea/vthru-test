@@ -1,0 +1,13 @@
+# Vthru test - Symfony Simple JSON API
+
+## Development build
+
+docker-compose up -f docker-compose.dev.yml --build
+
+## Production
+
+docker-compose up --build
+
+## Visit
+
+http://localhost:8001/...
